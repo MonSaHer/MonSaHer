@@ -6,7 +6,7 @@ I'm a student of genomic sciences 👩‍🔬
 
 🌿 I'm passionate about science and its potential to understand the world around us 🌿 
 
-  ![snoopy](./snoopy.jpeg), align="center" 
+  ![snoopy](./snoopy.jpeg) 
 
    
 
