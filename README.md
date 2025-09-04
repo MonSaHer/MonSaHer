@@ -6,6 +6,10 @@ I'm a student of genomic sciences 👩‍🔬
 
 🌿 I'm passionate about science and its potential to understand the world around us 🌿 
 
+  ![snoopy](./snoopy.jpeg), align="center" 
+
+   
+
 I firmly believe that science is by and for the people ✊
 
 I love listening to music 🎧
