@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Mon Saldaña. 
 
-<!--
-**MonSaHer/MonSaHer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of genomic sciences.
 
-Here are some ideas to get you started:
+### UNAM ENES Juriquilla.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about science and its potential to understand the world around us. 
+
+I firmly believe that science is by and for the people.
+
+I love listening to music.
+I write all the time :)
+I do it everything... sometimes jj. 
+
+**Always open to interdisciplinary collaborations** 
+
+  
+  
